@@ -43,3 +43,4 @@ feedbackArea.addEventListener("keypress", (e) => {
 feedbackButton.addEventListener("click", () => {
   submitFeedback();
 });
+
